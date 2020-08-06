@@ -1,0 +1,15 @@
+
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ïñçò°.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‡¬ïò°.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Îääò°.
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¢Úìò°.
+a
+java:S2147"DCombine this catch with the one at line 22, which has the same body.(ï­£Ä8Ïñçò°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡±é§8„×ò°.
+a
+java:S2259"DA "NullPointerException" could be thrown; "reader" is nullable here.(°ĞãÇ8‡¬ïò°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±¤ª¹8Æ©ìò°.

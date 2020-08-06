@@ -1,0 +1,15 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ò²Œˆ
+t
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ã·áx
+u
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡Æ…˜
+z
+java:S1149	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÁÂ†ëÿÿÿÿÿ
+u
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡Æ…˜
+[
+java:S1226"@Introduce a new variable instead of reusing the parameter "sb1".(·Ý¼Çÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(äÃÑ£üÿÿÿÿ
+Z
+java:S1226"?Introduce a new variable instead of reusing the parameter "s1".(´îœÙýÿÿÿÿ

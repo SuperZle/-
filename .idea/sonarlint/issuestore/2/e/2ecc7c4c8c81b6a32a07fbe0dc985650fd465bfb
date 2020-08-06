@@ -1,0 +1,19 @@
+
+T	java:S1063"9Replace this use of System.out or System.err by a logger.(ç‰
+8è–ÊÍ¯.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(¢ğ¸»úÿÿÿÿ8¸ËÙÍ¯.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ğ¤ÔŸ8”¨³Í¯.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(¡– Éùÿÿÿÿ8¨„ËÍ¯.
+Z
+java:S1128"=Remove this unused import 'sun.plugin.javascript.navig.Link'.(Ğ¤ÔŸ8”¨³Í¯.
+U	java:S106."9Replace this use of System.out or System.err by a logger.( ¢ÓÂ8“ÃÍ¯.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ÌòÔÖüÿÿÿÿ8 û»Í¯.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(Úì»Ğøÿÿÿÿ8ã®…Ï¯.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–İÅ8ŠŞØÌ¯.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(´Õïİ8²é±Í¯.
+Q
+java:S3740#"/Provide the parametrized type for this generic.(¦–ÎØşÿÿÿÿ8ş¯ºÍ¯.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–İÅ8ËãÓÌ¯.

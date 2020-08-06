@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…îÛ×
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+M
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Šşëë
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øˆ’Òøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Š¦Ÿıÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ÄÎĞ¡
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(îŸ­¿üÿÿÿÿ

@@ -1,0 +1,11 @@
+
+p
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(€ß—©úÿÿÿÿ8æß·½±.
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(œ¨à üÿÿÿÿ8ýÿ¦½±.
+a
+java:S1128"?Remove this unused import 'org.omg.CORBA.portable.InputStream'.(ÂÆ±–úÿÿÿÿ8½Ì´½±.
+c
+java:S1075	"ARefactor your code to get this URI from a customizable parameter.(¼¼©„ûÿÿÿÿ8¤§§½±.
+i
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(·òæ48ÚÚ³½±.

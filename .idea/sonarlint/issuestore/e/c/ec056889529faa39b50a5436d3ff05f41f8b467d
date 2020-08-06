@@ -1,0 +1,30 @@
+
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(²ß‡Ù
+f
+java:S1301)"KReplace this "switch" statement by "if" statements to increase readability.(ÍÁ±şÿÿÿÿ
+f
+java:S13014"KReplace this "switch" statement by "if" statements to increase readability.(«õµ³ûÿÿÿÿ
+s	java:S135
+"YReduce the total number of break and continue statements in this loop to use at most one.(çˆÆÌûÿÿÿÿ
+L
+java:S25893"7Remove this expression which always evaluates to "true"(î‹É#
+R
+java:S2589>"7Remove this expression which always evaluates to "true"(Üæ§İúÿÿÿÿ
+R
+java:S2589>"7Remove this expression which always evaluates to "true"(Üæ§İúÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Çµí‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·ä¡ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Âª°
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºÊ®È
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ºÊ®È
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Øê€íøÿÿÿÿ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ºÊ®È
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ö”Ëºûÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ºÊ®È
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(Æà°±
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(ºÊ®È
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(÷ù³³
+<
+java:S1481"&Remove this unused "z" local variable.(Ù¬È¦

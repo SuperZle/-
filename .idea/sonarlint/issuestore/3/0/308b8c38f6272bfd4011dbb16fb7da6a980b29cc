@@ -1,0 +1,10 @@
+
+p
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8äú‡É°.
+\	java:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8äú‡É°.
+^	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ïó›í8äú‡É°.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(âÂ‰8“Ş„É°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ëê†•8ÎÆƒÉ°.
+c	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8äú‡É°.
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(İŸ‘øÿÿÿÿ8´éÇ°.

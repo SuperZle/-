@@ -1,0 +1,9 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(å¥òöıÿÿÿÿ
+I
+java:S18744",Remove this use of "Long"; it is deprecated.(‡ª„±8Şåç®.
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(¾¡‚åüÿÿÿÿ8 ŒÅ®.
+c
+java:S11266"AReplace this if-then-else statement by a single return statement.(²˜„®øÿÿÿÿ8ÎÏ®.
+|
+java:S11490"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¶¶İç8 ŒÅ®.

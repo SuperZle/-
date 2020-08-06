@@ -1,0 +1,10 @@
+
+f
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¯ÇâÔøÿÿÿÿ
+H
+java:S1199"-Extract this nested code block into a method.(Ë¶Æãýÿÿÿÿ
+C
+java:S1199"-Extract this nested code block into a method.(Í¯±·
+<	java:S131""Add a default case to this switch.(¯ÇâÔøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Åýå£ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ä÷ªªþÿÿÿÿ

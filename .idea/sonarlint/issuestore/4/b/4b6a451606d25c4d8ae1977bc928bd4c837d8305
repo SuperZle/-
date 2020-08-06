@@ -1,0 +1,18 @@
+
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¼€Òú8Áì½ë°.
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ìâÆë°.
+E
+java:S1481"(Remove this unused "lea" local variable.(½Øê¹8¢‚´ì°.
+E
+java:S1481")Remove this unused "read" local variable.(¨•ğy8Şéƒì°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¤¬¥…8¶Øİë°.
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¼€Òú8…¸„ì°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(³Á«ä8‘äıë°.
+„
+java:S1192"gDefine a constant instead of duplicating this literal "D:\\code\\a\\b\\æ–°å»ºæ–‡æœ¬æ–‡æ¡£.txt" 3 times.(¼€Òú8…¸„ì°.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8…¸„ì°.
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¼€Òú8¬ú÷ë°.

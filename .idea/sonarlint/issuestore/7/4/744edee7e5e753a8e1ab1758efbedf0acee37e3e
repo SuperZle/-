@@ -1,0 +1,31 @@
+
+3
+java:S1643¯"Use a StringBuilder instead.(›æ¤¥
+n	java:S135d"YReduce the total number of break and continue statements in this loop to use at most one.(ò“”Í
+n	java:S1356"YReduce the total number of break and continue statements in this loop to use at most one.(ò“”Í
+Q
+java:S1119d";Refactor the code to remove this label and the need for it.(ò“”Í
+3
+java:S1643ƒ"Use a StringBuilder instead.(›æ¤¥
+n	java:S127™"XRefactor the code in order to not assign to this loop counter from within the loop body.(½ã¾â
+n
+java:S3776)"SRefactor this method to reduce its Cognitive Complexity from 121 to the 15 allowed.(Ô…›§ıÿÿÿÿ
+m	java:S127m"XRefactor the code in order to not assign to this loop counter from within the loop body.(½ã¾â
+o	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ò“”Í
+H
+java:S1128&"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+g	java:S101("MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ú²¦óıÿÿÿÿ
+V
+java:S1119b";Refactor the code to remove this label and the need for it.(ÇÚ–Ãùÿÿÿÿ
+W
+java:S1119";Refactor the code to remove this label and the need for it.(ÇÚ–Ãùÿÿÿÿ
+r	java:S127@"XRefactor the code in order to not assign to this loop counter from within the loop body.(¦ŒåØıÿÿÿÿ
+Q
+java:S11196";Refactor the code to remove this label and the need for it.(ò“”Í
+R
+java:S1119";Refactor the code to remove this label and the need for it.(ò“”Í
+2
+java:S1643W"Use a StringBuilder instead.(›æ¤¥
+Q
+java:S11194";Refactor the code to remove this label and the need for it.(Ï²âÆ
+T	java:S106¸"9Replace this use of System.out or System.err by a logger.(ÍôÚóıÿÿÿÿ

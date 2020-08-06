@@ -1,0 +1,22 @@
+
+c
+java:S1126'"AReplace this if-then-else statement by a single return statement.(²ÒÄ”ıÿÿÿÿ8œÿ¶Ë°.
+^
+java:S1075	"ARefactor your code to get this URI from a customizable parameter.(ÈÄ¶8ÀªìÊ°.
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(š¼ï°ûÿÿÿÿ8áÓ–Ë°.
+c
+java:S1075""ARefactor your code to get this URI from a customizable parameter.(¥éëùşÿÿÿÿ8–½¬Ë°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”8¾“Ë°.
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(úòÆşÿÿÿÿ8îÛÆË°.
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(Ûíü‚ÿÿÿÿÿ8ş¦¢Ë°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”8¬öùÊ°.
+J
+java:S1604#"(Make this anonymous inner class a lambda(¢¡›„ûÿÿÿÿ8–½¬Ë°.
+E
+java:S1604"(Make this anonymous inner class a lambda(²ŠÁ«8¾“Ë°.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8‡ø³Ë°.
+l
+java:S1128"JRemove this unused import 'com.sun.org.apache.bcel.internal.generic.LXOR'.(úòÆşÿÿÿÿ8îÛÆË°.

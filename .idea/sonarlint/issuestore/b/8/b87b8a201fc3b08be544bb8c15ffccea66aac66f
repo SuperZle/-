@@ -1,0 +1,15 @@
+
+e
+java:S2095+"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÜÀ‘Í8¦ª‡“±.
+k
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÆÊşé8ó¸¶“±.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(çªØíúÿÿÿÿ8¯Äñ“±.
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ë­›øÿÿÿÿ8ó¸¶“±.
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÎïÃï8Š¾Å“±.
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ûÆ×éúÿÿÿÿ8Š¾Å“±.
+]
+java:S1075*"ARefactor your code to get this URI from a customizable parameter.(î£Z8¦ª‡“±.
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(Š€ÉÍ8ğ¯““±.

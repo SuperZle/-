@@ -1,0 +1,23 @@
+
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ
+H
+java:S1199"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(óÁö¸
+H
+java:S1199("-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÔ²Ãüÿÿÿÿ8Áºî¯.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦¡˜8¬¡¸î¯.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°µğÿÿÿÿÿ8½Ä¼î¯.
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ï„ûÌ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(úû½»
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(º¾ªåüÿÿÿÿ8Î °î¯.
+C
+java:S11992"-Extract this nested code block into a method.(ÎŞèº
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ßòï¬8èœ¹î¯.
+H
+java:S1199-"-Extract this nested code block into a method.(úÀôãùÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(­ŠÍ¤üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ØğÓÂúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ£­¡ùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªªİşÿÿÿÿ8ˆÌ»î¯.
+M	java:S106G"9Replace this use of System.out or System.err by a logger.(ü×Û=

@@ -1,0 +1,27 @@
+
+u	java:S1352"YReduce the total number of break and continue statements in this loop to use at most one.(ò“”Í8¼õäµ².
+y	java:S127;"XRefactor the code in order to not assign to this loop counter from within the loop body.(¦ŒåØıÿÿÿÿ8¼õäµ².
+]
+java:S1119Z";Refactor the code to remove this label and the need for it.(ÇÚ–Ãùÿÿÿÿ8¼õäµ².
+X
+java:S1119\";Refactor the code to remove this label and the need for it.(ò“”Í8¼õäµ².
+X
+java:S11192";Refactor the code to remove this label and the need for it.(ò“”Í8¼õäµ².
+Y
+java:S1119ˆ";Refactor the code to remove this label and the need for it.(ò“”Í8¼õäµ².
+:
+java:S1643¦"Use a StringBuilder instead.(›æ¤¥8¼õäµ².
+X
+java:S11190";Refactor the code to remove this label and the need for it.(Ï²âÆ8¼õäµ².
+^
+java:S1119†";Refactor the code to remove this label and the need for it.(ÇÚ–Ãùÿÿÿÿ8¼õäµ².
+t	java:S127e"XRefactor the code in order to not assign to this loop counter from within the loop body.(½ã¾â8¼õäµ².
+u	java:S127‘"XRefactor the code in order to not assign to this loop counter from within the loop body.(½ã¾â8¼õäµ².
+v	java:S135ˆ"YReduce the total number of break and continue statements in this loop to use at most one.(ò“”Í8¼õäµ².
+9
+java:S1643P"Use a StringBuilder instead.(›æ¤¥8¼õäµ².
+u	java:S135\"YReduce the total number of break and continue statements in this loop to use at most one.(ò“”Í8¼õäµ².
+9
+java:S1643z"Use a StringBuilder instead.(›æ¤¥8¼õäµ².
+u
+java:S3776%"SRefactor this method to reduce its Cognitive Complexity from 121 to the 15 allowed.(¡€ğûÿÿÿÿ8¼õäµ².

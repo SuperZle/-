@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX602/LX602.iml" filepath="$PROJECT_DIR$/LX602/LX602.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX603/LX603.iml" filepath="$PROJECT_DIR$/LX603/LX603.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX604/LX604.iml" filepath="$PROJECT_DIR$/LX604/LX604.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX605/LX605.iml" filepath="$PROJECT_DIR$/LX605/LX605.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX606/LX606.iml" filepath="$PROJECT_DIR$/LX606/LX606.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX608/LX608.iml" filepath="$PROJECT_DIR$/LX608/LX608.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX609/LX609.iml" filepath="$PROJECT_DIR$/LX609/LX609.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX610/LX610.iml" filepath="$PROJECT_DIR$/LX610/LX610.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX611/LX611.iml" filepath="$PROJECT_DIR$/LX611/LX611.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX612/LX612.iml" filepath="$PROJECT_DIR$/LX612/LX612.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX613/LX613.iml" filepath="$PROJECT_DIR$/LX613/LX613.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX615/LX615.iml" filepath="$PROJECT_DIR$/LX615/LX615.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX616/LX616.iml" filepath="$PROJECT_DIR$/LX616/LX616.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX617/LX617.iml" filepath="$PROJECT_DIR$/LX617/LX617.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX619/LX619.iml" filepath="$PROJECT_DIR$/LX619/LX619.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX620/LX620.iml" filepath="$PROJECT_DIR$/LX620/LX620.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX622/LX622.iml" filepath="$PROJECT_DIR$/LX622/LX622.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX623/LX623.iml" filepath="$PROJECT_DIR$/LX623/LX623.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX624/LX624.iml" filepath="$PROJECT_DIR$/LX624/LX624.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX628/LX628.iml" filepath="$PROJECT_DIR$/LX628/LX628.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX629/LX629.iml" filepath="$PROJECT_DIR$/LX629/LX629.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX701/LX701.iml" filepath="$PROJECT_DIR$/LX701/LX701.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX702/LX702.iml" filepath="$PROJECT_DIR$/LX702/LX702.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX703/LX703.iml" filepath="$PROJECT_DIR$/LX703/LX703.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX704/LX704.iml" filepath="$PROJECT_DIR$/LX704/LX704.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX706/LX706.iml" filepath="$PROJECT_DIR$/LX706/LX706.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX707/LX707.iml" filepath="$PROJECT_DIR$/LX707/LX707.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX708/LX708.iml" filepath="$PROJECT_DIR$/LX708/LX708.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX709/LX709.iml" filepath="$PROJECT_DIR$/LX709/LX709.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX710/LX710.iml" filepath="$PROJECT_DIR$/LX710/LX710.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX711/LX711.iml" filepath="$PROJECT_DIR$/LX711/LX711.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LX713/LX713.iml" filepath="$PROJECT_DIR$/LX713/LX713.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShuaTi/ShuaTi.iml" filepath="$PROJECT_DIR$/ShuaTi/ShuaTi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lx.java/lx.java.iml" filepath="$PROJECT_DIR$/lx.java/lx.java.iml" />
+    </modules>
+  </component>
+</project>

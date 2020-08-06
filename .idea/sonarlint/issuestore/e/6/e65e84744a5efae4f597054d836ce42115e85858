@@ -1,0 +1,13 @@
+
+N
+java:S1481",Remove this unused "newFile" local variable.(ùÙ¯õüÿÿÿÿ8‹ê¢Ã°.
+V	java:S899";Do something with the "boolean" value returned by "delete".(±Ü‹8‘¬ŸÃ°.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ëê†•8ó¹¥Â°.
+c	java:S899"BDo something with the "boolean" value returned by "createNewFile".(ùÙ¯õüÿÿÿÿ8‹ê¢Ã°.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(•Ã¤ıÿÿÿÿ8”ü´Â°.
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(–À÷›üÿÿÿÿ8“Ø“Â°.
+j
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(±Ü‹8‘¬ŸÃ°.
+M
+java:S1481"+Remove this unused "mkdirs" local variable.(ú§Ûñşÿÿÿÿ8ªø›Ã°.

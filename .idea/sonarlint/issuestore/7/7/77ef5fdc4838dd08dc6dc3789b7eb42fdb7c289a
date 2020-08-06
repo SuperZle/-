@@ -1,0 +1,10 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 74 to the 15 allowed.(ìâÅÖ8»û£Â±.
+{
+java:S3012("YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ºÈ¤£ÿÿÿÿÿ8ŸÕíÂ±.
+J	java:S108/")Either remove or fill this block of code.(õÊ­¿øÿÿÿÿ8ŸÕíÂ±.
+{
+java:S3012G"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ëÛÊüÿÿÿÿ8ŸÕíÂ±.
+v
+java:S3012Y"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¶÷­¬8ŸÕíÂ±.

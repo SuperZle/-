@@ -1,0 +1,13 @@
+
+_
+java:S2583"DChange this condition so that it does not always evaluate to "false"(¥±ûıÿÿÿÿ
+I
+java:S1121".Extract the assignment out of this expression.(®…×øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¢ˆüŞ
+_
+java:S2583"DChange this condition so that it does not always evaluate to "false"(®…×øÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(±éÂÒùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(öôÊ¡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ı³ÓÆ
+Y
+java:S2583"CChange this condition so that it does not always evaluate to "true"(§ßÕş

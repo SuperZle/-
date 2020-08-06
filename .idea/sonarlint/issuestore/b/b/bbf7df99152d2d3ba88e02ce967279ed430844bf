@@ -1,0 +1,11 @@
+
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(óÊåŞúÿÿÿÿ8ìÀüÏ­.
+{
+java:S11711"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ìÀüÏ­.
+m
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8‡ûÕ­.
+^
+java:S1126("AReplace this if-then-else statement by a single return statement.( îÖŠ8ûÊ¨Õ­.
+T	java:S1062"9Replace this use of System.out or System.err by a logger.(—ÔÎ8ìÀüÏ­.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’ì‰¨úÿÿÿÿ
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(›¯Ú¶8üöÏ­.

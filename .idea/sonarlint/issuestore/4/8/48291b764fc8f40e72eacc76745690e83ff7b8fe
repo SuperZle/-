@@ -1,0 +1,13 @@
+
+f
+java:S2095"IUse try-with-resources or close this "PrintStream" in a "finally" clause.(ïÀâ8Ñô°š±.
+f
+java:S2095"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(İúÎ´8Šºğš±.
+I
+java:S1481"'Remove this unused "sc" local variable.(ğÛ²¸øÿÿÿÿ8ôÍØš±.
+E
+java:S1148
+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ÿ »š±.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ï®Åáıÿÿÿÿ8ä¾ºš±.
+P
+java:S1481"3Remove this unused "bufferedReader" local variable.(ÌøÎî8ç‚›±.

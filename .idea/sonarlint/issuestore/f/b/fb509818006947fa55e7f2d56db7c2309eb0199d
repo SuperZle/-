@@ -1,0 +1,19 @@
+
+
+java:S1192"pDefine a constant instead of duplicating this literal "D:\\æ–°å»ºæ–‡ä»¶å¤¹ (2)\\æ–°å»ºæ–‡ä»¶å¤¹\\0.txt" 4 times.(‡¼ùí8äƒ€–±.
+t
+java:S2095"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(Ûºş‹ùÿÿÿÿ8°†õ•±.
+h
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ã»¥c8·ÆÓ•±.
+n
+java:S2095$"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(ùÜèÙ8äƒ€–±.
+t
+java:S2095%"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(Ûºş‹ùÿÿÿÿ8äƒ€–±.
+n
+java:S2095"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(ùÜèÙ8£Åï•±.
+h
+java:S20951"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ã»¥c8ëÁ†–±.
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(‡¼ùí8¢•¢•±.
+i
+java:S20950"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(‡¼ùí8ëÁ†–±.

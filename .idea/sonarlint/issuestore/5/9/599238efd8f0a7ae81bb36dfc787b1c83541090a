@@ -1,0 +1,20 @@
+
+h
+java:S1192"RDefine a constant instead of duplicating this literal " å½“å‰ä½™é¢ä¸º:" 5 times.(ó×ûş
+}
+java:S1192"bDefine a constant instead of duplicating this literal "æ‚¨è¾“å…¥æœ‰è¯¯ï¼Œè¯·é‡æ–°è¾“å…¥" 3 times.(îŸ­¿üÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…îÛ×
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+M
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ö¤è“
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øªüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(îŸ­¿üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«ö†óúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ó×ûş
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(îŸ­¿üÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÀ®”
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(¯§Ø´ùÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(Ÿ¨‚ğÿÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(îŸ­¿üÿÿÿÿ

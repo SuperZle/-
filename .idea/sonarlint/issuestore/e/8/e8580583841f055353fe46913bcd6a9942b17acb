@@ -1,0 +1,28 @@
+
+p
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(»›×Şÿÿÿÿÿ8Ç”×ø°.
+e
+java:S20950"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(òÙ˜€8¿Î‚ù°.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(çªØíúÿÿÿÿ8¤£è“±.
+o
+java:S2095""MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‰Äëùÿÿÿÿ8é¡òø°.
+c
+java:S1075!"ARefactor your code to get this URI from a customizable parameter.(®°Æ™øÿÿÿÿ8é¡òø°.
+o
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‰Äëùÿÿÿÿ8âëÑø°.
+k
+java:S2095D"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÆÊşé8êƒ¨ù°.
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÎïÃï8›»äù°.
+c
+java:S1075	"ARefactor your code to get this URI from a customizable parameter.(ûÆ×éúÿÿÿÿ8ëàñù°.
+o
+java:S2095C"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ë­›øÿÿÿÿ8Ğ¯ì±.
+p
+java:S2095#"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(­•ÎÌøÿÿÿÿ8é¡òø°.
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ìš™Ô8Â‰Õö°.
+]
+java:S1075."ARefactor your code to get this URI from a customizable parameter.(î£Z8›‡ıø°.
+e
+java:S2095/"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÜÀ‘Í8­ÿø°.

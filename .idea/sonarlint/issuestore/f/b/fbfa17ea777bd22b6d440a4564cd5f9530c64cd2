@@ -1,0 +1,47 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(à¬Ê˜üÿÿÿÿ
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(‰¼Ñ•øÿÿÿÿ8¼¢Àÿ¯.
+L
+java:S3740!"/Provide the parametrized type for this generic.(áÏí8¼ƒ¹ÿ¯.
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(ÃæÂÔûÿÿÿÿ
+Q
+java:S3740""/Provide the parametrized type for this generic.(ëØĞ°øÿÿÿÿ8¼ƒ¹ÿ¯.
+B
+java:S1481",Remove this unused "strings" local variable.(ï†½ô
+E
+java:S3740"/Provide the parametrized type for this generic.(Ğ±ÆÇ
+Q
+java:S3740#"/Provide the parametrized type for this generic.(Òçóœşÿÿÿÿ8¼ƒ¹ÿ¯.
+E
+java:S3740"/Provide the parametrized type for this generic.(óù«
+Q
+java:S3740 "/Provide the parametrized type for this generic.(›¤‚şÿÿÿÿ8¼ƒ¹ÿ¯.
+L
+java:S3740!"/Provide the parametrized type for this generic.(áÏí8¼ƒ¹ÿ¯.
+J
+java:S3740"/Provide the parametrized type for this generic.(à¬Ê˜üÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(¤ËşÑÿÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(Ã¬×Çøÿÿÿÿ
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(é¯‰Òúÿÿÿÿ8¼¢Àÿ¯.
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(¤ªÎ¹8¼¢Àÿ¯.
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(¢°°­
+Q
+java:S3740""/Provide the parametrized type for this generic.(ëØĞ°øÿÿÿÿ8¼ƒ¹ÿ¯.
+E
+java:S3740"/Provide the parametrized type for this generic.(óù«
+J
+java:S3740"/Provide the parametrized type for this generic.(¤ËşÑÿÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(ĞßÕ‹
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(æùÁ¼şÿÿÿÿ8¼¢Àÿ¯.
+Q
+java:S3740#"/Provide the parametrized type for this generic.(Òçóœşÿÿÿÿ8¼ƒ¹ÿ¯.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(öœÈ8àİ¼ÿ¯.
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(¨ô¢¨ıÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(Ğ±ÆÇ
+Q
+java:S3740 "/Provide the parametrized type for this generic.(›¤‚şÿÿÿÿ8¼ƒ¹ÿ¯.

@@ -1,0 +1,17 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„ì®˜ùÿÿÿÿ
++
+java:S1700"Rename field "s"(®şîìøÿÿÿÿ
+u
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‚ĞÒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+;
+java:S2116"%Use "Arrays.toString(array)" instead.(ş­Ö´
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(¯ô¢ô
+A
+java:S1481"&Remove this unused "a" local variable.(øùØ‘şÿÿÿÿ
+F
+java:S1481"+Remove this unused "chars1" local variable.(Öë¦˜ÿÿÿÿÿ
+=
+java:S1481"'Remove this unused "s1" local variable.(ş­Ö´
